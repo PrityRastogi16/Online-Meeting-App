@@ -11,8 +11,8 @@ GatherHub is a video chat application designed for seamless online communication
 - [Website Preview](#website-preview)
 
 ## To Login use-
- **Email:-pritys@gmail.com**
- **Password:-123**
+- **Email:-pritys@gmail.com**
+- **Password:-123**
 
 
 ## Project Type
